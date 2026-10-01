@@ -23,8 +23,8 @@
 ## 🛠️ Tech Stack
 | Component | Technology |
 | :--- | :--- |
-| **Frontend** | JavaScript, HTML/CSS, Client Components, Python |
-| **Backend** | Node.js, Express.js |
+| **Frontend** | JavaScript, HTML/CSS, Client Components |
+| **Backend** | Node.js, Express.js, Python |
 | **Database** | MongoDB |
 | **Version Control** | Git & GitHub |
 
