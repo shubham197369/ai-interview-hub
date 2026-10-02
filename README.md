@@ -43,4 +43,4 @@ Get the project running locally on your machine with these simple steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/shubham197369/ai-interview-hub.git](https://github.com/shubham197369/ai-interview-hub.git)
+   git clonegit clone https://github.com/shubham197369/ai-interview-hub.git
